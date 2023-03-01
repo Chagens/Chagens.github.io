@@ -1,5 +1,5 @@
 # CS452-Starter
-Starter code for CS452 - Computer Graphics
+
 
 ## Compatibility
 
